@@ -19,8 +19,8 @@ const Center = styled.div`
   transform: translate(-50%, -50%);
 `
 const ModalDiv = styled.div`
-  width: 400px;
-  height: 250px;
+  width: "350px;
+  height: 200px;
   background-color: white;
   z-index: 9999;
   border-radius: 16px;
