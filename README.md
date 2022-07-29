@@ -1,4 +1,6 @@
 # HRNet Modal
+**Useful links:** 
+- [Modal package npm](https://www.npmjs.com/package/modal-react-hrnet)
 
 ## Install
 
